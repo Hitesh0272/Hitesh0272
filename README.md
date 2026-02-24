@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-💻 UI Developer from **Bhubaneswar, India 🇮🇳**  
+💻 UI Developer from **Hyderabad, India 🇮🇳**  
 🎨 Obsessed with clean UI, smooth UX & pixel-perfect layouts  
 ⚡ Love working with **React, JavaScript & modern CSS**
 
